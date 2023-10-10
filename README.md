@@ -3,7 +3,11 @@
 ## Description
 
 This project analyzes the movement patterns of lavae in a petri dish, making decisions based on single or multiple attractive targets. The analysis includes generating trajectory videos and heat maps using data from IMBAtracker. 
+Start with the .m file "Breadcrumbs
 
+    Analyzing-Lavae-Movement-Patterns
+
+"
 ## Prerequisites
 
 Before running the code, make sure you have the following:
