@@ -4,8 +4,8 @@ clear;
 
 %% Taking the Data
 % Specify the name and path of the Excel file to be imported
-filename = 'experiment-2023-04-18_analyzed';
-filepath = 'C:\Users\abehrad\Desktop\Analyzed_Data\New folder\experiment-2023-04-18-analysis(90_degree)';
+filename = '';
+filepath = '';
 
 % Construct the full file path
 full_path = fullfile(filepath, filename);
