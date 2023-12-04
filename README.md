@@ -1,4 +1,4 @@
-# Analyzing-Lavae-Movement-Patterns
+# Analyzing-Larvae-Movement-Patterns
 
 
 ## Description
